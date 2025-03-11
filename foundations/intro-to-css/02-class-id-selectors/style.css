@@ -1,0 +1,33 @@
+.Num1{
+color: black;
+font-size: 18px;
+background-color: lightcoral;
+font-family: arial;
+}
+#Num2{
+    color: blue;
+    font-size: 30px;
+    font-family: arial;
+}
+
+#Hello{
+    color: black;
+    font-size: 18px;
+    background-color: lightcoral;
+    font-family: arial;
+    }
+
+    #num4{
+        color: black;
+        font-size: 18px;
+        font-family: arial;
+        background-color:  greenyellow;
+    }
+    
+
+    .num5{
+        color: black;
+        font-size: 18px;
+        background-color: lightcoral;
+        font-family: arial;
+        }
